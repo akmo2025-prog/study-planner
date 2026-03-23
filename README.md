@@ -10,6 +10,9 @@ Students managing coursework and deadlines.
 - Mark tasks as complete
 - Filter tasks by subject
 - Set priority levels (low / medium / high)
+- have a dark/light mode
+- English/french butoon
+- AI chatbot assistant box
 
 ## Tech Stack
 - Next.js (React framework)
